@@ -1,0 +1,4 @@
+50 pixels horizontal
+50 pixels vertical
+
+50*50 = 2500 pixels
